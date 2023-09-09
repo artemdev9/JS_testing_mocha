@@ -1,0 +1,14 @@
+{
+  "name": "Spacecraft_test_suite",
+  "version": "1.0.0",
+  "description": "Exercise to practise testing with mocha.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Artem D.",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
