@@ -1,7 +1,7 @@
 {
   "name": "Spacecraft_test_suite",
   "version": "1.0.0",
-  "description": "Exercise to practise testing with mocha.",
+  "description": "Spacecraft test suit. Exercise to practise testing with mocha.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
