@@ -10,13 +10,12 @@ You can use this module in your Node.js applications to check the status of spac
 
 1. Clone the repository or download the code to your project directory.
 2. Install the required dependencies using npm:
-   **npm install**
+- npm install
 
 ## Testing with Mocha
 
 The code includes Mocha tests to ensure the correctness of the spacecraft control functions. You can run the tests using the following command:
-
-**npm test**
+- npm test
 
 The tests are defined in the test directory within the index_test.js file. They cover scenarios for checking the status of systems and calculating the time of takeoff. Mocha, along with the assert and expect libraries, is used for testing.
 
